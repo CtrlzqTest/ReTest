@@ -392,6 +392,7 @@
 				F049E69D1F3D5764007E8416 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
